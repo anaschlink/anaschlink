@@ -48,7 +48,7 @@ My technical interests include web engineering, automation workflows, and applie
 Automation tool that extracts structured business data from Google Maps and exports it to Excel.
 
 **Tech:** Python, Playwright  
-🔗 https://github.com/anabschlink/maps-leads-scraper
+🔗 [Maps-leads-scraper](https://github.com/anaschlink/maps-leads-scraper)
 
 ---
 
