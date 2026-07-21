@@ -48,9 +48,11 @@ Automation tool that extracts structured business data from Google Maps and expo
 **Tech:** Python, Playwright  
 🔗 [maps-leads-scraper](https://github.com/anaschlink/maps-leads-scraper)
 
-*(More projects coming soon)*
+### 📄 Research Publication
 
----
+**Automatic Classification of Diabetic Retinopathy Using Artificial Intelligence Models**  
+Presented at CONIC – SEMESP 2025  
+🔗 DOI: [10.54899/dcs.v23i91.5800](https://doi.org/10.54899/dcs.v23i91.5800)
 
 ## 📫 Connect
 - LinkedIn: [Ana Beatriz Schlink](https://www.linkedin.com/in/ana-beatriz-schlink)
