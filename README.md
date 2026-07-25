@@ -43,6 +43,11 @@ I enjoy building reliable systems and solving complex problems with clean, testa
 
 ## 🚀 Projects
 
+### 🏥 Clinic Intake Agent
+FastAPI service that extracts structured medical information from free-text patient descriptions using LLMs. Receives patient input, calls HuggingFace Inference API, and returns symptoms, urgency level, suggested specialty, and red flags as structured JSON — persisted in PostgreSQL.  
+**Tech:** Python, FastAPI, PostgreSQL, Docker, HuggingFace  
+🔗 [clinic-intake-agent](https://github.com/anaschlink/clinic-intake-agent)
+
 ### 🗺 Maps Leads Scraper
 Automation tool that extracts structured business data from Google Maps and exports to Excel.  
 **Tech:** Python, Playwright  
