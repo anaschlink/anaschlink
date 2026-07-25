@@ -48,6 +48,11 @@ FastAPI service that extracts structured medical information from free-text pati
 **Tech:** Python, FastAPI, PostgreSQL, Docker, HuggingFace  
 🔗 [clinic-intake-agent](https://github.com/anaschlink/clinic-intake-agent)
 
+### ✅ Taskly
+Minimalist task manager with natural-language quick capture, color-coded lists, weekly schedule view, and passwordless authentication. Built as a daily productivity tool used in production.  
+**Tech:** React, TypeScript, Supabase, Tailwind CSS, Vite  
+🔗 [taskly](https://github.com/anaschlink/taskly-pi-peach) · [Live](https://taskly-pi-peach.vercel.app)
+
 ### 🗺 Maps Leads Scraper
 Automation tool that extracts structured business data from Google Maps and exports to Excel.  
 **Tech:** Python, Playwright  
